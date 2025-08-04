@@ -1,4 +1,5 @@
 # MCP-Search
+![Funny GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5rcmg2NTRldm9nd2RsYWQyZG9xYmNsa3VuNms0ZGQ3cnA2d2s5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ixkav29frk3QLfsb6s/giphy.gif)
 
 An AI-powered search result analysis tool that finds the most reliable answer from web searches using advanced reasoning and source credibility assessment.
 
