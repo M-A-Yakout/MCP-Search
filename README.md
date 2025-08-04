@@ -35,7 +35,7 @@ An AI-powered search result analysis tool that finds the most reliable answer fr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/mcp-search.git
+   git clone https://github.com/M-A-Yakout/MCP-Search.git
    cd mcp-search
    ```
 
